@@ -27,7 +27,7 @@ Initial Volunteer提供的ETH，会全部转入AIP Pool;
 
 - AIP Pool会将50%的ETH投入liquidity Pool 提供流动性，会在liquidity Pool 开始后，每天1%的ETH投入liquidity Pool 的WETH/KANI币对，持续10天。
  - 在0-10天的时候，参与initial pool的用户，每天可以来claim kani
- - 在10天之后，参与initial pool的用户，可以粉两次claim bpt ，bpt可以自己兑换成kani+eth
+ - 在20天之后，参与initial pool的用户，可以分两次claim bpt ，bpt可以自己兑换成kani+eth
  - 剩余50%的ETH，将用于KANI回购，以及建立Uniswap以及Blancer的流动性
 
 ## Stable Pool 稳定池

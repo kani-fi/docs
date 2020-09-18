@@ -27,7 +27,7 @@ All ETH provided by Initial Volunteer will be transferred to the AIP Pool;
 
 - AIP Pool will put 50% ETH into the liquidity Pool to provide liquidity. After the liquidity Pool starts, 1% of the ETH will be put into the WETH/KANI currency pair in the liquidity Pool every day for 100 days.
  - In 0-100 days, users of the initial pool can claim kani every day
- - In 50 or 100 days, users of the initial pool can claim bpt twice, and bpt can be exchanged for kani+eth.
+ - After 20 days, users of the initial pool can claim bpt twice, and bpt can be exchanged for kani+eth.
  - The remaining 50% of ETH will be used for KANI repurchase and to establish Uniswap and Balancer liquidity
 ## Stable Pool 
 
